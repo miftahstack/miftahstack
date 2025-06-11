@@ -22,7 +22,7 @@ Code is not just my work—it's my creative outlet.
   </div>
  
 <div align="center"> 
-  <a href="mailto:mezbah.w.m17@gmail.com">
+  <a href="mailto:miftah4165@icloud.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mezbah-ul-haq-09741b234" target="_blank">
