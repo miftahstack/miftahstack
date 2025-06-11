@@ -10,10 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Full-Stack Projects.**
- 🌱 I’m currently learning **Cyber Security.**
+ 🔭 I'm a passionate coder who loves building clean and efficient solutions.
+I enjoy working with HTML, CSS, JavaScript, and modern frameworks.
+Problem-solving and continuous learning are at the core of my journey.
+I build projects to sharpen my skills and explore new technologies.
+Code is not just my work—it's my creative outlet.
  
- ⚡ Fun fact **The first GIF ever created was of a plane flying—introduced in 1987 by CompuServe. 🛩️✨**
+ 
+ ⚡ Fun fact **Your'e a Human being✨**
 
   </div>
  
@@ -37,9 +41,8 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,javascript,express,mongodb,nextjs,npm" />
 </div>
 
-
 <br/>
-  
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
