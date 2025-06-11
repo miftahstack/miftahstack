@@ -11,7 +11,6 @@
 <div align="center">
  
  🔭 I’m currently working on **Full-Stack Projects.**
- 
  🌱 I’m currently learning **Cyber Security.**
  
  ⚡ Fun fact **The first GIF ever created was of a plane flying—introduced in 1987 by CompuServe. 🛩️✨**
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-mezbah-le9njmmt4-md-mezbah-ul-haqs-projects.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -36,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,,javascript,,express,,mongodb,,,nextjs,," /><br>
 </div>
 
 <br/>
